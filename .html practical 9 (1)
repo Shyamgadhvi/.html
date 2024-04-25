@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+
+    <h1>Student Registration</h1><br>
+
+   <form action="">
+
+        <label for="">Full Name:-</label>
+
+            <input type="text" name="" id=""><br>
+
+        
+
+
+
+            
+
+        <label for="">Student Contact No.:-</label>
+
+            <input type="text" name="" id=""><br>
+
+        
+
+
+
+
+
+        
+
+
+
+
+
+        <label for="">Email:-</label>
+
+                <input type="text" name="" id=""><br>
+
+        
+
+
+
+
+
+        <label for="">Gender:-</label>
+
+            <input type="radio" value="Male" name="gender" checked>Male
+
+                 <input type="radio" value="Female" name="gender" checked>female
+
+                    <input type="radio" value="other" name="gender" checked>other <br>
+
+        
+
+
+
+       
+
+        <label for="">Date of birth:-</label>
+
+            <input type="date" name="" id=""><br>
+
+        
+
+
+
+        
+
+        <label for="">Address:-</label>
+
+             <textarea name="" id="" cols="20" rows="5"></textarea><br>
+
+        
+
+       
+
+
+
+    <label for=""> branch:-</label>
+
+        <select name="" id="">
+
+            <option value="blank"></option>
+
+                   <option value="computer">Computer</option>
+
+                         <option value="civil">Civil</option>
+
+                 <option value="electrical">Electrical</option>
+
+             <option value="mechenical">Mechenical</option>
+
+</select>
+
+
+
+
+
+<button>Register</button>  
+
+
+
+
+
+
+
+   </form>
+
+    
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
