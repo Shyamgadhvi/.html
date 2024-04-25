@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+
+<style>
+
+
+
+    table,th,td{
+
+
+
+
+
+border: 1px double black;
+
+border-radius: 5px;
+
+
+
+}
+
+</style>
+
+
+
+ 
+
+    
+
+<table>
+
+    <tr>
+
+<th>person 1</th>
+
+<th>person 2 </th>
+
+<th>person 3</th>
+
+</tr>
+
+<tr>
+
+<td>email</td>
+
+<td>tobis</td>
+
+<td>linus</td>
+
+
+
+</tr>
+
+<tr> 
+
+<td>16</td>
+
+<td>14</td>
+
+<td>10</td>
+
+</tr>
+
+   
+
+</table>
+
+
+
+
+
+    
+
+</body>
+
+</html>
