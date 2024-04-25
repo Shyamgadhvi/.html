@@ -14,9 +14,13 @@
 
 <body>
 
-    <h1>HTML link</h1>
+    <h1>HTML image</h1>
 
-    <a href="https://www.gpjg.cteguj.in/">Visit G.P.junagadh</a>
+    <p>
+
+    <img src="D:\Entertainment\Wall Paper.jpg" alt="image">
+
+</p>
 
 </body>
 
