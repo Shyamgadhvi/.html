@@ -14,27 +14,79 @@
 
 <body>
 
- 
-
-    <h1>An unordered HTML list</h1>
-
-    <ul type="dot">
-
-    <li>Coffee</li>
-
-    <li> Tea</li>
-
-    <li>Milk </li>
-
-    </ul>
-
     
 
-    
+<h1>Definition List Example</h1>
 
-      
 
-    
+
+
+
+<dl>
+
+     <dt>HTMl</dt>
+
+         <dd>
+
+         is a markup launguage
+
+         </dd>
+
+</dl>
+
+<dl>
+
+    <dt>
+
+       Java
+
+    </dt>
+
+    <dd>
+
+    is a programming launguage and platform
+
+    </dd>
+
+    </dl>
+
+
+
+<dl>
+
+<dt>
+
+   Java Script 
+
+</dt>
+
+        <dd>
+
+        is a scrpiting launguage
+
+        </dd>
+
+</dl>
+
+
+
+<dl>
+
+    <dt>
+
+       SQl 
+
+    </dt>
+
+    <dd>
+
+    is a query launguage
+
+    </dd>
+
+    </dl>
+
+
 
 </body>
 
